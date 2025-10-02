@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nikita-saxena-928672320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikita-saxena-928672320" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nikita-saxena-928672320" target="blank"><img align="center" src="www.linkedin.com/in/nikita-saxena-928672320" alt="www.linkedin.com/in/nikita-saxena-928672320" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/nikitasaxena12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nikitasaxena12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/nikita_saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nikita_saxena" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/nikita-saxena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nikita-saxena/" height="30" width="40" /></a>
