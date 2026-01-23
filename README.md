@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Saxena</h1>
-<h3 align="center">A programmer and web developer from India</h3>
+<h3 align="center">A full-Stack Developer and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita-saxena391&label=Profile%20views&color=0e75b6&style=flat" alt="nikita-saxena391" /> </p>
 
