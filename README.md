@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Saxena</h1>
-<h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | DSA Learner</h3>
+<h3 align="center">Full-Stack Developer | DSA Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikita-saxena391&label=Profile%20views&color=0e75b6&style=flat" alt="nikita-saxena391" />
@@ -10,7 +10,6 @@
 ### 👩‍💻 About Me
 - 🌱 Currently learning **Full-Stack Development & Machine Learning**
 - 💡 Interested in **Problem Solving and Data Structures & Algorithms**
-- 💻 Regularly practicing on **LeetCode, Codeforces, and GeeksforGeeks**
 - 📫 Reach me at **nikitasaxena.net@gmail.com**
 
 ---
@@ -66,8 +65,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikita-saxena391&show_icons=true&locale=en" />
-</p>
