@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita Saxena</h1>
+<h1 align="center">Hi 👋, I'm Nikita Saxena</h1> <img src="https://komarev.com/ghpvc/?username=Nikita-Saxena391&color=blue" alt="Profile views"/>
 
 <h3 align="center">
 Software Engineering Student • Full Stack Developer • Problem Solver • Algorithm Enthusiast
