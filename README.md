@@ -78,4 +78,8 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-d. Repeat.”*
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikita-Saxena391/Nikita-Saxena391/output/snake.svg" />
+</p>
